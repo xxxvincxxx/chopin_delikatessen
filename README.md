@@ -12,3 +12,6 @@ Please note that we do not take any responsibility or liability for any damage o
 
 #### Link Test Kaggle
 https://datasetsearch.research.google.com/search?query=chopin&docid=L2cvMTFsZl9reno1Yg%3D%3D
+
+## Key Mood Mapping
+https://www.campanologia.it/01-STS/E03-Teoria-Musicale/E03-20-TemperamentoConsiderazioni.htm
